@@ -1,0 +1,278 @@
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, arch='bert', data_name='kaggle', do_data=True, do_lower_case=False, do_test=False, do_train=False, epochs=6, eval_batch_size=8, eval_max_seq_len=256, fp16=False, fp16_opt_level='O1', grad_clip=1.0, gradient_accumulation_steps=1, learning_rate=2e-05, local_rank=-1, loss_scale=0, mode='min', monitor='valid_loss', n_gpu='0', resume_path='', save_best=False, seed=42, sorted=1, train_batch_size=8, train_max_seq_len=256, valid_size=0.2, warmup_proportion=0.1, weight_decay=0.01)
+split raw data into train and valid
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, arch='bert', data_name='kaggle', do_data=False, do_lower_case=True, do_test=False, do_train=True, epochs=6, eval_batch_size=8, eval_max_seq_len=256, fp16=False, fp16_opt_level='O1', grad_clip=1.0, gradient_accumulation_steps=1, learning_rate=2e-05, local_rank=-1, loss_scale=0, mode='min', monitor='valid_loss', n_gpu='0', resume_path='', save_best=True, seed=42, sorted=1, train_batch_size=8, train_max_seq_len=256, valid_size=0.2, warmup_proportion=0.1, weight_decay=0.01)
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, arch='bert', data_name='kaggle', do_data=False, do_lower_case=True, do_test=False, do_train=True, epochs=6, eval_batch_size=8, eval_max_seq_len=256, fp16=False, fp16_opt_level='O1', grad_clip=1.0, gradient_accumulation_steps=1, learning_rate=2e-05, local_rank=-1, loss_scale=0, mode='min', monitor='valid_loss', n_gpu='0', resume_path='', save_best=True, seed=42, sorted=1, train_batch_size=8, train_max_seq_len=256, valid_size=0.2, warmup_proportion=0.1, weight_decay=0.01)
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, arch='bert', data_name='kaggle', do_data=False, do_lower_case=True, do_test=False, do_train=True, epochs=6, eval_batch_size=8, eval_max_seq_len=256, fp16=False, fp16_opt_level='O1', grad_clip=1.0, gradient_accumulation_steps=1, learning_rate=2e-05, local_rank=-1, loss_scale=0, mode='min', monitor='valid_loss', n_gpu='0', resume_path='', save_best=True, seed=42, sorted=1, train_batch_size=8, train_max_seq_len=256, valid_size=0.2, warmup_proportion=0.1, weight_decay=0.01)
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, arch='bert', data_name='kaggle', do_data=False, do_lower_case=True, do_test=False, do_train=True, epochs=6, eval_batch_size=8, eval_max_seq_len=256, fp16=False, fp16_opt_level='O1', grad_clip=1.0, gradient_accumulation_steps=1, learning_rate=2e-05, local_rank=-1, loss_scale=0, mode='min', monitor='valid_loss', n_gpu='0', resume_path='', save_best=True, seed=42, sorted=1, train_batch_size=8, train_max_seq_len=256, valid_size=0.2, warmup_proportion=0.1, weight_decay=0.01)
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, arch='bert', data_name='kaggle', do_data=False, do_lower_case=True, do_test=False, do_train=True, epochs=6, eval_batch_size=8, eval_max_seq_len=256, fp16=False, fp16_opt_level='O1', grad_clip=1.0, gradient_accumulation_steps=1, learning_rate=2e-05, local_rank=-1, loss_scale=0, mode='min', monitor='valid_loss', n_gpu='0', resume_path='', save_best=True, seed=42, sorted=1, train_batch_size=8, train_max_seq_len=256, valid_size=0.2, warmup_proportion=0.1, weight_decay=0.01)
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, arch='bert', data_name='kaggle', do_data=False, do_lower_case=True, do_test=False, do_train=True, epochs=6, eval_batch_size=8, eval_max_seq_len=256, fp16=False, fp16_opt_level='O1', grad_clip=1.0, gradient_accumulation_steps=1, learning_rate=2e-05, local_rank=-1, loss_scale=0, mode='min', monitor='valid_loss', n_gpu='0', resume_path='', save_best=True, seed=42, sorted=1, train_batch_size=8, train_max_seq_len=256, valid_size=0.2, warmup_proportion=0.1, weight_decay=0.01)
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, arch='bert', data_name='kaggle', do_data=False, do_lower_case=True, do_test=False, do_train=True, epochs=6, eval_batch_size=8, eval_max_seq_len=256, fp16=False, fp16_opt_level='O1', grad_clip=1.0, gradient_accumulation_steps=1, learning_rate=2e-05, local_rank=-1, loss_scale=0, mode='min', monitor='valid_loss', n_gpu='0', resume_path='', save_best=True, seed=42, sorted=1, train_batch_size=8, train_max_seq_len=256, valid_size=0.2, warmup_proportion=0.1, weight_decay=0.01)
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, arch='bert', data_name='kaggle', do_data=False, do_lower_case=True, do_test=False, do_train=True, epochs=6, eval_batch_size=8, eval_max_seq_len=256, fp16=False, fp16_opt_level='O1', grad_clip=1.0, gradient_accumulation_steps=1, learning_rate=2e-05, local_rank=-1, loss_scale=0, mode='min', monitor='valid_loss', n_gpu='0', resume_path='', save_best=True, seed=42, sorted=1, train_batch_size=8, train_max_seq_len=256, valid_size=0.2, warmup_proportion=0.1, weight_decay=0.01)
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, arch='bert', data_name='kaggle', do_data=False, do_lower_case=True, do_test=False, do_train=True, epochs=6, eval_batch_size=8, eval_max_seq_len=256, fp16=False, fp16_opt_level='O1', grad_clip=1.0, gradient_accumulation_steps=1, learning_rate=2e-05, local_rank=-1, loss_scale=0, mode='min', monitor='valid_loss', n_gpu='0', resume_path='', save_best=True, seed=42, sorted=1, train_batch_size=8, train_max_seq_len=256, valid_size=0.2, warmup_proportion=0.1, weight_decay=0.01)
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, arch='bert', data_name='kaggle', do_data=False, do_lower_case=True, do_test=False, do_train=True, epochs=6, eval_batch_size=8, eval_max_seq_len=256, fp16=False, fp16_opt_level='O1', grad_clip=1.0, gradient_accumulation_steps=1, learning_rate=2e-05, local_rank=-1, loss_scale=0, mode='min', monitor='valid_loss', n_gpu='0', resume_path='', save_best=True, seed=42, sorted=1, train_batch_size=8, train_max_seq_len=256, valid_size=0.2, warmup_proportion=0.1, weight_decay=0.01)
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, arch='bert', data_name='kaggle', do_data=False, do_lower_case=True, do_test=False, do_train=True, epochs=6, eval_batch_size=8, eval_max_seq_len=256, fp16=False, fp16_opt_level='O1', grad_clip=1.0, gradient_accumulation_steps=1, learning_rate=2e-05, local_rank=-1, loss_scale=0, mode='min', monitor='valid_loss', n_gpu='0', resume_path='', save_best=True, seed=42, sorted=1, train_batch_size=8, train_max_seq_len=256, valid_size=0.2, warmup_proportion=0.1, weight_decay=0.01)
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, arch='bert', data_name='kaggle', do_data=False, do_lower_case=True, do_test=False, do_train=True, epochs=6, eval_batch_size=8, eval_max_seq_len=256, fp16=False, fp16_opt_level='O1', grad_clip=1.0, gradient_accumulation_steps=1, learning_rate=2e-05, local_rank=-1, loss_scale=0, mode='min', monitor='valid_loss', n_gpu='0', resume_path='', save_best=True, seed=42, sorted=1, train_batch_size=8, train_max_seq_len=256, valid_size=0.2, warmup_proportion=0.1, weight_decay=0.01)
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, arch='bert', data_name='kaggle', do_data=False, do_lower_case=True, do_test=False, do_train=True, epochs=6, eval_batch_size=8, eval_max_seq_len=256, fp16=False, fp16_opt_level='O1', grad_clip=1.0, gradient_accumulation_steps=1, learning_rate=2e-05, local_rank=-1, loss_scale=0, mode='min', monitor='valid_loss', n_gpu='0', resume_path='', save_best=True, seed=42, sorted=1, train_batch_size=8, train_max_seq_len=256, valid_size=0.2, warmup_proportion=0.1, weight_decay=0.01)
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, arch='bert', data_name='kaggle', do_data=False, do_lower_case=True, do_test=False, do_train=True, epochs=6, eval_batch_size=8, eval_max_seq_len=256, fp16=False, fp16_opt_level='O1', grad_clip=1.0, gradient_accumulation_steps=1, learning_rate=2e-05, local_rank=-1, loss_scale=0, mode='min', monitor='valid_loss', n_gpu='0', resume_path='', save_best=True, seed=42, sorted=1, train_batch_size=8, train_max_seq_len=256, valid_size=0.2, warmup_proportion=0.1, weight_decay=0.01)
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, arch='bert', data_name='kaggle', do_data=False, do_lower_case=True, do_test=False, do_train=True, epochs=6, eval_batch_size=8, eval_max_seq_len=256, fp16=False, fp16_opt_level='O1', grad_clip=1.0, gradient_accumulation_steps=1, learning_rate=2e-05, local_rank=-1, loss_scale=0, mode='min', monitor='valid_loss', n_gpu='0', resume_path='', save_best=True, seed=42, sorted=1, train_batch_size=8, train_max_seq_len=256, valid_size=0.2, warmup_proportion=0.1, weight_decay=0.01)
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, arch='bert', data_name='kaggle', do_data=False, do_lower_case=True, do_test=False, do_train=True, epochs=6, eval_batch_size=8, eval_max_seq_len=256, fp16=False, fp16_opt_level='O1', grad_clip=1.0, gradient_accumulation_steps=1, learning_rate=2e-05, local_rank=-1, loss_scale=0, mode='min', monitor='valid_loss', n_gpu='0', resume_path='', save_best=True, seed=42, sorted=1, train_batch_size=8, train_max_seq_len=256, valid_size=0.2, warmup_proportion=0.1, weight_decay=0.01)
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, arch='bert', data_name='kaggle', do_data=False, do_lower_case=True, do_test=False, do_train=True, epochs=6, eval_batch_size=8, eval_max_seq_len=256, fp16=False, fp16_opt_level='O1', grad_clip=1.0, gradient_accumulation_steps=1, learning_rate=2e-05, local_rank=-1, loss_scale=0, mode='min', monitor='valid_loss', n_gpu='0', resume_path='', save_best=True, seed=42, sorted=1, train_batch_size=8, train_max_seq_len=256, valid_size=0.2, warmup_proportion=0.1, weight_decay=0.01)
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, arch='bert', data_name='kaggle', do_data=False, do_lower_case=True, do_test=False, do_train=True, epochs=6, eval_batch_size=8, eval_max_seq_len=256, fp16=False, fp16_opt_level='O1', grad_clip=1.0, gradient_accumulation_steps=1, learning_rate=2e-05, local_rank=-1, loss_scale=0, mode='min', monitor='valid_loss', n_gpu='0', resume_path='', save_best=True, seed=42, sorted=1, train_batch_size=8, train_max_seq_len=256, valid_size=0.2, warmup_proportion=0.1, weight_decay=0.01)
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, arch='bert', data_name='kaggle', do_data=False, do_lower_case=True, do_test=False, do_train=True, epochs=6, eval_batch_size=8, eval_max_seq_len=256, fp16=False, fp16_opt_level='O1', grad_clip=1.0, gradient_accumulation_steps=1, learning_rate=2e-05, local_rank=-1, loss_scale=0, mode='min', monitor='valid_loss', n_gpu='0', resume_path='', save_best=True, seed=42, sorted=1, train_batch_size=8, train_max_seq_len=256, valid_size=0.2, warmup_proportion=0.1, weight_decay=0.01)
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, arch='bert', data_name='kaggle', do_data=False, do_lower_case=True, do_test=False, do_train=True, epochs=6, eval_batch_size=8, eval_max_seq_len=256, fp16=False, fp16_opt_level='O1', grad_clip=1.0, gradient_accumulation_steps=1, learning_rate=2e-05, local_rank=-1, loss_scale=0, mode='min', monitor='valid_loss', n_gpu='0', resume_path='', save_best=True, seed=42, sorted=1, train_batch_size=8, train_max_seq_len=256, valid_size=0.2, warmup_proportion=0.1, weight_decay=0.01)
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, arch='bert', data_name='kaggle', do_data=False, do_lower_case=True, do_test=False, do_train=True, epochs=6, eval_batch_size=8, eval_max_seq_len=256, fp16=False, fp16_opt_level='O1', grad_clip=1.0, gradient_accumulation_steps=1, learning_rate=2e-05, local_rank=-1, loss_scale=0, mode='min', monitor='valid_loss', n_gpu='0', resume_path='', save_best=True, seed=42, sorted=1, train_batch_size=8, train_max_seq_len=256, valid_size=0.2, warmup_proportion=0.1, weight_decay=0.01)
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, arch='bert', data_name='kaggle', do_data=True, do_lower_case=False, do_test=False, do_train=False, epochs=6, eval_batch_size=8, eval_max_seq_len=256, fp16=False, fp16_opt_level='O1', grad_clip=1.0, gradient_accumulation_steps=1, learning_rate=2e-05, local_rank=-1, loss_scale=0, mode='min', monitor='valid_loss', n_gpu='0', resume_path='', save_best=False, seed=42, sorted=1, train_batch_size=8, train_max_seq_len=256, valid_size=0.2, warmup_proportion=0.1, weight_decay=0.01)
+split raw data into train and valid
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, arch='bert', data_name='kaggle', do_data=False, do_lower_case=True, do_test=False, do_train=True, epochs=6, eval_batch_size=8, eval_max_seq_len=256, fp16=False, fp16_opt_level='O1', grad_clip=1.0, gradient_accumulation_steps=1, learning_rate=2e-05, local_rank=-1, loss_scale=0, mode='min', monitor='valid_loss', n_gpu='0', resume_path='', save_best=True, seed=42, sorted=1, train_batch_size=8, train_max_seq_len=256, valid_size=0.2, warmup_proportion=0.1, weight_decay=0.01)
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, arch='bert', data_name='kaggle', do_data=False, do_lower_case=True, do_test=False, do_train=True, epochs=6, eval_batch_size=8, eval_max_seq_len=256, fp16=False, fp16_opt_level='O1', grad_clip=1.0, gradient_accumulation_steps=1, learning_rate=2e-05, local_rank=-1, loss_scale=0, mode='min', monitor='valid_loss', n_gpu='0', resume_path='', save_best=True, seed=42, sorted=1, train_batch_size=8, train_max_seq_len=256, valid_size=0.2, warmup_proportion=0.1, weight_decay=0.01)
+Saving examples into cached file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\dataset\cached_train_examples_bert
+*** Example ***
+guid: train-0
+tokens: [CLS] copyright on frenchman ' st ##ower ##19 ##10 . jp ##g i am new and i do not know how to fill in copyright information . i got the photo from the university of california archive , and it clearly said rights : public domain material in the public domain . no restrictions on use . i copied that information into the permission box . was i supposed to fill in something else also ? thanks for bringing this to my attention . [SEP]
+input_ids: 101 9385 2006 26529 1005 2358 25114 16147 10790 1012 16545 2290 1045 2572 2047 1998 1045 2079 2025 2113 2129 2000 6039 1999 9385 2592 1012 1045 2288 1996 6302 2013 1996 2118 1997 2662 8756 1010 1998 2009 4415 2056 2916 1024 2270 5884 3430 1999 1996 2270 5884 1012 2053 9259 2006 2224 1012 1045 15826 2008 2592 2046 1996 6656 3482 1012 2001 1045 4011 2000 6039 1999 2242 2842 2036 1029 4283 2005 5026 2023 2000 2026 3086 1012 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+segment_ids: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+*** Example ***
+guid: train-1
+tokens: [CLS] re : block of user : d ##n ##vr ##fan ##t ##j what was the evidence of sock ##pu ##ppet van ##dal ##ism ? i agree this con ##ti ##bu ##tor ' s first few contributions were not particularly useful , but it is not clear to me that it was van ##dal ##ism rather than just in ##ex ##per ##ience . thanks [SEP]
+input_ids: 101 2128 1024 3796 1997 5310 1024 1040 2078 19716 15143 2102 3501 2054 2001 1996 3350 1997 28407 14289 29519 3158 9305 2964 1029 1045 5993 2023 9530 3775 8569 4263 1005 1055 2034 2261 5857 2020 2025 3391 6179 1010 2021 2009 2003 2025 3154 2000 2033 2008 2009 2001 3158 9305 2964 2738 2084 2074 1999 10288 4842 13684 1012 4283 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+segment_ids: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Saving features into cached file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\dataset\cached_train_features_256_bert
+sorted data by th length of input
+Saving examples into cached file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\dataset\cached_valid_examples_bert
+*** Example ***
+guid: valid-0
+tokens: [CLS] " the essential point is that the peacock ##ery does more harm than good . we should write in a di ##sp ##ass ##ion ##ate way , otherwise any reasonably sa ##v ##vy reader will think " " h ##ype " " after reading the first few sentences . " [SEP]
+input_ids: 101 1000 1996 6827 2391 2003 2008 1996 18931 7301 2515 2062 7386 2084 2204 1012 2057 2323 4339 1999 1037 4487 13102 12054 3258 3686 2126 1010 4728 2151 16286 7842 2615 10736 8068 2097 2228 1000 1000 1044 18863 1000 1000 2044 3752 1996 2034 2261 11746 1012 1000 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+segment_ids: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+*** Example ***
+guid: valid-1
+tokens: [CLS] " bringing up to standards to avoid edit warring , let us work by consensus . i think it is agreed that statements need to be cited , and that it is not enough to cite , but to reflect the source accurately . statements that are either un ##cite ##d or incorrectly cited need to be corrected , or removed . starting from the top , there is this sentence : " " the status of dh ##im ##mi applied to millions of people living from the atlantic ocean to india from the 7th century until modern times [ citation needed ] . " " can we agree to sub ##st ##ute ' until modern times ' with something more appropriate ? i suggest something like " " from the 7th century , and is still practiced in countries such as . . . " " . since only a handful of countries actually apply sha ##ria ##h , and only few that practice it still hold the dh ##im ##ma thing , this shouldn ##t be a problem . " [SEP]
+input_ids: 101 1000 5026 2039 2000 4781 2000 4468 10086 28509 1010 2292 2149 2147 2011 10465 1012 1045 2228 2009 2003 3530 2008 8635 2342 2000 2022 6563 1010 1998 2008 2009 2003 2025 2438 2000 21893 1010 2021 2000 8339 1996 3120 14125 1012 8635 2008 2024 2593 4895 17847 2094 2030 19721 6563 2342 2000 2022 13371 1010 2030 3718 1012 3225 2013 1996 2327 1010 2045 2003 2023 6251 1024 1000 1000 1996 3570 1997 28144 5714 4328 4162 2000 8817 1997 2111 2542 2013 1996 4448 4153 2000 2634 2013 1996 5504 2301 2127 2715 2335 1031 11091 2734 1033 1012 1000 1000 2064 2057 5993 2000 4942 3367 10421 1005 2127 2715 2335 1005 2007 2242 2062 6413 1029 1045 6592 2242 2066 1000 1000 2013 1996 5504 2301 1010 1998 2003 2145 9051 1999 3032 2107 2004 1012 1012 1012 1000 1000 1012 2144 2069 1037 9210 1997 3032 2941 6611 21146 4360 2232 1010 1998 2069 2261 2008 3218 2009 2145 2907 1996 28144 5714 2863 2518 1010 2023 5807 2102 2022 1037 3291 1012 1000 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+segment_ids: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Saving features into cached file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\dataset\cached_valid_features_256_bert
+initializing model
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, arch='bert', data_name='kaggle', do_data=False, do_lower_case=True, do_test=False, do_train=True, epochs=6, eval_batch_size=8, eval_max_seq_len=256, fp16=False, fp16_opt_level='O1', grad_clip=1.0, gradient_accumulation_steps=1, learning_rate=2e-05, local_rank=-1, loss_scale=0, mode='min', monitor='valid_loss', n_gpu='0', resume_path='', save_best=True, seed=42, sorted=1, train_batch_size=8, train_max_seq_len=256, valid_size=0.2, warmup_proportion=0.1, weight_decay=0.01)
+Loading examples from cached file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\dataset\cached_train_examples_bert
+Loading features from cached file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\dataset\cached_train_features_256_bert
+sorted data by th length of input
+Loading examples from cached file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\dataset\cached_valid_examples_bert
+Loading features from cached file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\dataset\cached_valid_features_256_bert
+initializing model
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, arch='bert', data_name='kaggle', do_data=False, do_lower_case=True, do_test=False, do_train=True, epochs=6, eval_batch_size=8, eval_max_seq_len=256, fp16=False, fp16_opt_level='O1', grad_clip=1.0, gradient_accumulation_steps=1, learning_rate=2e-05, local_rank=-1, loss_scale=0, mode='min', monitor='valid_loss', n_gpu='0', resume_path='', save_best=True, seed=42, sorted=1, train_batch_size=8, train_max_seq_len=256, valid_size=0.2, warmup_proportion=0.1, weight_decay=0.01)
+Loading examples from cached file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\dataset\cached_train_examples_bert
+Loading features from cached file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\dataset\cached_train_features_256_bert
+sorted data by th length of input
+Loading examples from cached file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\dataset\cached_valid_examples_bert
+Loading features from cached file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\dataset\cached_valid_features_256_bert
+initializing model
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, arch='bert', data_name='kaggle', do_data=False, do_lower_case=True, do_test=False, do_train=True, epochs=6, eval_batch_size=8, eval_max_seq_len=256, fp16=False, fp16_opt_level='O1', grad_clip=1.0, gradient_accumulation_steps=1, learning_rate=2e-05, local_rank=-1, loss_scale=0, mode='min', monitor='valid_loss', n_gpu='0', resume_path='', save_best=True, seed=42, sorted=1, train_batch_size=8, train_max_seq_len=256, valid_size=0.2, warmup_proportion=0.1, weight_decay=0.01)
+Loading examples from cached file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\dataset\cached_train_examples_bert
+Loading features from cached file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\dataset\cached_train_features_256_bert
+sorted data by th length of input
+Loading examples from cached file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\dataset\cached_valid_examples_bert
+Loading features from cached file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\dataset\cached_valid_features_256_bert
+initializing model
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, arch='bert', data_name='kaggle', do_data=False, do_lower_case=True, do_test=False, do_train=True, epochs=6, eval_batch_size=8, eval_max_seq_len=256, fp16=False, fp16_opt_level='O1', grad_clip=1.0, gradient_accumulation_steps=1, learning_rate=2e-05, local_rank=-1, loss_scale=0, mode='min', monitor='valid_loss', n_gpu='0', resume_path='', save_best=True, seed=42, sorted=1, train_batch_size=8, train_max_seq_len=256, valid_size=0.2, warmup_proportion=0.1, weight_decay=0.01)
+Loading examples from cached file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\dataset\cached_train_examples_bert
+Loading features from cached file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\dataset\cached_train_features_256_bert
+sorted data by th length of input
+Loading examples from cached file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\dataset\cached_valid_examples_bert
+Loading features from cached file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\dataset\cached_valid_features_256_bert
+initializing model
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, arch='bert', data_name='kaggle', do_data=False, do_lower_case=True, do_test=False, do_train=True, epochs=6, eval_batch_size=8, eval_max_seq_len=256, fp16=False, fp16_opt_level='O1', grad_clip=1.0, gradient_accumulation_steps=1, learning_rate=2e-05, local_rank=-1, loss_scale=0, mode='min', monitor='valid_loss', n_gpu='0', resume_path='', save_best=True, seed=42, sorted=1, train_batch_size=8, train_max_seq_len=256, valid_size=0.2, warmup_proportion=0.1, weight_decay=0.01)
+Loading examples from cached file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\dataset\cached_train_examples_bert
+Loading features from cached file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\dataset\cached_train_features_256_bert
+sorted data by th length of input
+Loading examples from cached file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\dataset\cached_valid_examples_bert
+Loading features from cached file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\dataset\cached_valid_features_256_bert
+initializing model
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, arch='bert', data_name='kaggle', do_data=False, do_lower_case=True, do_test=False, do_train=True, epochs=6, eval_batch_size=8, eval_max_seq_len=256, fp16=False, fp16_opt_level='O1', grad_clip=1.0, gradient_accumulation_steps=1, learning_rate=2e-05, local_rank=-1, loss_scale=0, mode='min', monitor='valid_loss', n_gpu='0', resume_path='', save_best=True, seed=42, sorted=1, train_batch_size=8, train_max_seq_len=256, valid_size=0.2, warmup_proportion=0.1, weight_decay=0.01)
+Loading examples from cached file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\dataset\cached_train_examples_bert
+Loading features from cached file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\dataset\cached_train_features_256_bert
+sorted data by th length of input
+Loading examples from cached file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\dataset\cached_valid_examples_bert
+Loading features from cached file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\dataset\cached_valid_features_256_bert
+initializing model
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, arch='bert', data_name='kaggle', do_data=False, do_lower_case=True, do_test=False, do_train=True, epochs=6, eval_batch_size=8, eval_max_seq_len=256, fp16=False, fp16_opt_level='O1', grad_clip=1.0, gradient_accumulation_steps=1, learning_rate=2e-05, local_rank=-1, loss_scale=0, mode='min', monitor='valid_loss', n_gpu='0', resume_path='', save_best=True, seed=42, sorted=1, train_batch_size=8, train_max_seq_len=256, valid_size=0.2, warmup_proportion=0.1, weight_decay=0.01)
+Loading examples from cached file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\dataset\cached_train_examples_bert
+Loading features from cached file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\dataset\cached_train_features_256_bert
+sorted data by th length of input
+Loading examples from cached file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\dataset\cached_valid_examples_bert
+Loading features from cached file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\dataset\cached_valid_features_256_bert
+initializing model
+loading configuration file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\pretrain\bert\base-uncased\config.json
+Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "finetuning_task": null,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "num_labels": 6,
+  "output_attentions": false,
+  "output_hidden_states": false,
+  "pruned_heads": {},
+  "torchscript": false,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+loading weights file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\pretrain\bert\base-uncased\pytorch_model.bin
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, arch='bert', data_name='kaggle', do_data=False, do_lower_case=True, do_test=False, do_train=True, epochs=6, eval_batch_size=8, eval_max_seq_len=256, fp16=False, fp16_opt_level='O1', grad_clip=1.0, gradient_accumulation_steps=1, learning_rate=2e-05, local_rank=-1, loss_scale=0, mode='min', monitor='valid_loss', n_gpu='0', resume_path='', save_best=True, seed=42, sorted=1, train_batch_size=8, train_max_seq_len=256, valid_size=0.2, warmup_proportion=0.1, weight_decay=0.01)
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, arch='bert', data_name='kaggle', do_data=False, do_lower_case=True, do_test=False, do_train=True, epochs=6, eval_batch_size=8, eval_max_seq_len=256, fp16=False, fp16_opt_level='O1', grad_clip=1.0, gradient_accumulation_steps=1, learning_rate=2e-05, local_rank=-1, loss_scale=0, mode='min', monitor='valid_loss', n_gpu='0', resume_path='', save_best=True, seed=42, sorted=1, train_batch_size=8, train_max_seq_len=256, valid_size=0.2, warmup_proportion=0.1, weight_decay=0.01)
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, arch='bert', data_name='kaggle', do_data=False, do_lower_case=True, do_test=False, do_train=True, epochs=6, eval_batch_size=8, eval_max_seq_len=256, fp16=False, fp16_opt_level='O1', grad_clip=1.0, gradient_accumulation_steps=1, learning_rate=2e-05, local_rank=-1, loss_scale=0, mode='min', monitor='valid_loss', n_gpu='0', resume_path='', save_best=True, seed=42, sorted=1, train_batch_size=8, train_max_seq_len=256, valid_size=0.2, warmup_proportion=0.1, weight_decay=0.01)
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, arch='bert', data_name='kaggle', do_data=False, do_lower_case=True, do_test=False, do_train=True, epochs=6, eval_batch_size=8, eval_max_seq_len=256, fp16=False, fp16_opt_level='O1', grad_clip=1.0, gradient_accumulation_steps=1, learning_rate=2e-05, local_rank=-1, loss_scale=0, mode='min', monitor='valid_loss', n_gpu='0', resume_path='', save_best=True, seed=42, sorted=1, train_batch_size=8, train_max_seq_len=256, valid_size=0.2, warmup_proportion=0.1, weight_decay=0.01)
+Loading examples from cached file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\dataset\cached_train_examples_bert
+Loading features from cached file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\dataset\cached_train_features_256_bert
+sorted data by th length of input
+Loading examples from cached file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\dataset\cached_valid_examples_bert
+Loading features from cached file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\dataset\cached_valid_features_256_bert
+initializing model
+loading configuration file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\pretrain\bert\base-uncased\config.json
+Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "finetuning_task": null,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "num_labels": 6,
+  "output_attentions": false,
+  "output_hidden_states": false,
+  "pruned_heads": {},
+  "torchscript": false,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+loading weights file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\pretrain\bert\base-uncased\pytorch_model.bin
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, arch='bert', data_name='kaggle', do_data=False, do_lower_case=True, do_test=False, do_train=True, epochs=6, eval_batch_size=8, eval_max_seq_len=256, fp16=False, fp16_opt_level='O1', grad_clip=1.0, gradient_accumulation_steps=1, learning_rate=2e-05, local_rank=-1, loss_scale=0, mode='min', monitor='valid_loss', n_gpu='0', resume_path='', save_best=True, seed=42, sorted=1, train_batch_size=8, train_max_seq_len=256, valid_size=0.2, warmup_proportion=0.1, weight_decay=0.01)
+Loading examples from cached file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\dataset\cached_train_examples_bert
+Loading features from cached file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\dataset\cached_train_features_256_bert
+sorted data by th length of input
+Loading examples from cached file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\dataset\cached_valid_examples_bert
+Loading features from cached file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\dataset\cached_valid_features_256_bert
+initializing model
+loading configuration file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\pretrain\bert\base-uncased\config.json
+Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "finetuning_task": null,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "num_labels": 6,
+  "output_attentions": false,
+  "output_hidden_states": false,
+  "pruned_heads": {},
+  "torchscript": false,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+loading weights file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\pretrain\bert\base-uncased\pytorch_model.bin
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, arch='bert', data_name='kaggle', do_data=False, do_lower_case=True, do_test=False, do_train=True, epochs=6, eval_batch_size=8, eval_max_seq_len=256, fp16=False, fp16_opt_level='O1', grad_clip=1.0, gradient_accumulation_steps=1, learning_rate=2e-05, local_rank=-1, loss_scale=0, mode='min', monitor='valid_loss', n_gpu='0', resume_path='', save_best=True, seed=42, sorted=1, train_batch_size=8, train_max_seq_len=256, valid_size=0.2, warmup_proportion=0.1, weight_decay=0.01)
+Loading examples from cached file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\dataset\cached_train_examples_bert
+Loading features from cached file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\dataset\cached_train_features_256_bert
+sorted data by th length of input
+Loading examples from cached file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\dataset\cached_valid_examples_bert
+Loading features from cached file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\dataset\cached_valid_features_256_bert
+initializing model
+loading configuration file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\pretrain\bert\base-uncased\config.json
+Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "finetuning_task": null,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "num_labels": 6,
+  "output_attentions": false,
+  "output_hidden_states": false,
+  "pruned_heads": {},
+  "torchscript": false,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+loading weights file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\pretrain\bert\base-uncased\pytorch_model.bin
+Weights of BertForMultiLable not initialized from pretrained model: ['classifier.weight', 'classifier.bias']
+Weights from pretrained model not used in BertForMultiLable: ['cls.predictions.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.weight', 'cls.seq_relationship.weight', 'cls.seq_relationship.bias', 'cls.predictions.transform.LayerNorm.weight', 'cls.predictions.transform.LayerNorm.bias']
+initializing callbacks
+***** Running training *****
+  Num examples = 127657
+  Num Epochs = 6
+  Total train batch size (w. parallel, distributed & accumulation) = 8
+  Gradient Accumulation steps = 1
+  Total optimization steps = 95748
+Warning: There's no GPU available on this machine, training will be performed on CPU.
+Warning: The number of GPU's configured to use is 0, but only 0 are available on this machine.
+Epoch 1/6
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, arch='bert', data_name='kaggle', do_data=True, do_lower_case=False, do_test=False, do_train=False, epochs=6, eval_batch_size=8, eval_max_seq_len=256, fp16=False, fp16_opt_level='O1', grad_clip=1.0, gradient_accumulation_steps=1, learning_rate=2e-05, local_rank=-1, loss_scale=0, mode='min', monitor='valid_loss', n_gpu='0', resume_path='', save_best=False, seed=42, sorted=1, train_batch_size=8, train_max_seq_len=256, valid_size=0.2, warmup_proportion=0.1, weight_decay=0.01)
+split raw data into train and valid
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, arch='bert', data_name='kaggle', do_data=False, do_lower_case=True, do_test=False, do_train=True, epochs=6, eval_batch_size=8, eval_max_seq_len=256, fp16=False, fp16_opt_level='O1', grad_clip=1.0, gradient_accumulation_steps=1, learning_rate=2e-05, local_rank=-1, loss_scale=0, mode='min', monitor='valid_loss', n_gpu='0', resume_path='', save_best=True, seed=42, sorted=1, train_batch_size=8, train_max_seq_len=256, valid_size=0.2, warmup_proportion=0.1, weight_decay=0.01)
+Loading examples from cached file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\dataset\cached_train_examples_bert
+Loading features from cached file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\dataset\cached_train_features_256_bert
+sorted data by th length of input
+Loading examples from cached file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\dataset\cached_valid_examples_bert
+Loading features from cached file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\dataset\cached_valid_features_256_bert
+initializing model
+loading configuration file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\pretrain\bert\base-uncased\config.json
+Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "finetuning_task": null,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "num_labels": 6,
+  "output_attentions": false,
+  "output_hidden_states": false,
+  "pruned_heads": {},
+  "torchscript": false,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+loading weights file C:\Users\mailp\Bert-Multi-Label-Text-Classification\pybert\pretrain\bert\base-uncased\pytorch_model.bin
+Weights of BertForMultiLable not initialized from pretrained model: ['classifier.weight', 'classifier.bias']
+Weights from pretrained model not used in BertForMultiLable: ['cls.predictions.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.weight', 'cls.seq_relationship.weight', 'cls.seq_relationship.bias', 'cls.predictions.transform.LayerNorm.weight', 'cls.predictions.transform.LayerNorm.bias']
+initializing callbacks
+***** Running training *****
+  Num examples = 127657
+  Num Epochs = 6
+  Total train batch size (w. parallel, distributed & accumulation) = 8
+  Gradient Accumulation steps = 1
+  Total optimization steps = 95748
+Warning: There's no GPU available on this machine, training will be performed on CPU.
+Warning: The number of GPU's configured to use is 0, but only 0 are available on this machine.
+Epoch 1/6
